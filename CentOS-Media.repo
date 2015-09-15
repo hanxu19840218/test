@@ -18,3 +18,5 @@ baseurl=file:///media/CentOS/
         file:///media/cdrecorder/
 gpgcheck=1
 enabled=0
+
+i am a dev

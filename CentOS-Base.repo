@@ -10,7 +10,6 @@
 #
 #
  
-<<<<<<< HEAD
 [base]
 name=CentOS-$releasever - Base - mirrors.aliyun.com
 failovermethod=priority
