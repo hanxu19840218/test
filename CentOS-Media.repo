@@ -18,4 +18,3 @@ baseurl=file:///media/CentOS/
         file:///media/cdrecorder/
 gpgcheck=1
 enabled=0
-gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
